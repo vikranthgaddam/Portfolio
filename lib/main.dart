@@ -57,7 +57,7 @@ class _MyHomePageState extends State<MyHomePage> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               Icon(Icons.person,size: 40,),
-              Text("Vikranth"),
+              Text("Vikranth Hello"),
               Text(
                 'Hi This is Vikranth Application Developer',
                 style: TextStyle(fontSize: 30),
