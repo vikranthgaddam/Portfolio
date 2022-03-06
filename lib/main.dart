@@ -64,7 +64,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
               ElevatedButton(
                 onPressed: () {},
-                child: Text("View My Resume"),
+                child: Text("View MyHello Resume"),
               ),
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
